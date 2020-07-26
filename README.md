@@ -1,2 +1,2 @@
 # FortniteItemShop
-Item Shop for Fortnite
+Item Shop for Fortnite by Galactic
