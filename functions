@@ -3,7 +3,7 @@
 	require_once( 'config.php');
 
 	// central time
-	date_default_timezone_set( 'America/Chicago' );
+	date_default_timezone_set( 'America/California' );
 
 	/**
 	 * Get store data from the fortnite api and save it in a json file
